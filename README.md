@@ -25,7 +25,7 @@ The aim of this project is to perform analysis on Domino's sales data and gain i
 
 **Visualization :**
 
-Clickhere(https://github.com/Niyanta-Verma/Dominos-data-analysis/Dominos.pdf) for visualization
+ Visit https://github.com/Niyanta-Verma/Dominos-data-analysis/Dominos.pdf for visualization
 
 **Result :**
 The answers to above questions will help the stakeholders to strategise the pricing and marketing, to optimize the menu etc.
