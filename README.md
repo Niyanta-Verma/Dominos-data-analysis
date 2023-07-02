@@ -23,9 +23,5 @@ The aim of this project is to perform analysis on Domino's sales data and gain i
 5. What is the variance in Pizza sales and sales Target
 6. What is the variance in daily Pizza sales and sales Target
 
-**Visualization :**
-
- Visit https://github.com/Niyanta-Verma/Dominos-data-analysis/Dominos.pdf for visualization
-
 **Result :**
 The answers to above questions will help the stakeholders to strategise the pricing and marketing, to optimize the menu etc.
